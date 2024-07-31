@@ -4,6 +4,8 @@
 
 This Weather App allows users to check the current weather for any city. It provides details such as temperature, humidity, and wind speed, and displays relevant weather icons.
 
+![image](https://github.com/user-attachments/assets/81159aff-a6ba-41e7-8b0f-24c5a489267f)
+
 ## Features
 
 - Search for weather by city name
@@ -21,6 +23,7 @@ Follow these instructions to set up and run the Weather App locally on your mach
 - A web browser (for viewing the app)
 
 ### Installation
+
 
 1. **Clone the Repository**
 
